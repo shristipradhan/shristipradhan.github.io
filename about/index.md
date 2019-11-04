@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: false
+date: false
 comments: false
 ---
     
 Hello!
+
+I'm a Software Engineer at Sierra Wireless, Vancouver, Canada. My interest are in embedded systems, Internet of Things (IoT) application development.
+
+Apart from coding, I love hiking and traveling.
