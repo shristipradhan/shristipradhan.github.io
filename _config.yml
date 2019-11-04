@@ -63,7 +63,7 @@ linkedin:           shristipradhan
 #hackernews:        username
 
 # Gems
-#gems:
+gems:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
