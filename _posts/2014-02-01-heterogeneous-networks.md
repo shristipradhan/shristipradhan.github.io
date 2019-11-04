@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heterogenous Networks"
-date:   2019-1-1
+date:   2014-02-01
 excerpt: "Heterogeneous Networks"
 tag: false 
 comments: false
