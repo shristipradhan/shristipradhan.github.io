@@ -1,11 +1,11 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Shristi Pradhan
+bio:                'Welcome to my home page!'
+description:        "Shristi Pradhan website"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+#background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://shristipradhan.github.io
@@ -37,20 +37,20 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              shristi.pr@gmail.com
+#twitter:            username
+#facebook:           username
+github-url:         shristi-pradhan
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           shristipradhan
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -63,7 +63,7 @@ steam:              username
 #hackernews:        username
 
 # Gems
-gems:
+#gems:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
