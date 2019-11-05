@@ -10,6 +10,10 @@ comments: false
 During my Master's research at The University of British Columbia, I investigated resource management issues in heterogeneous networks (HetNets) focused particularly on femtocell and macrocell networks. Network performance was analyzed for energy efficiency and green communications.
 I proposed intrinsic trade-off optimization methods to obtain balance between important performance parameters such as network throughput, outage probability and power consumption. For resource optimization, the methods used were convex minimization, multi-objective optimization, geometric programming. The research was conducted under the supervision of Professor [Vijay K. Bhargava](https://www.ece.ubc.ca/~vijayb/).
 
+<figure>
+	<img src="assests/img/Heterogeneous-Network.png">
+	<figcaption> Heterogeneous Networks </figcaption>
+</figure>
 
 **Master's thesis**
 
