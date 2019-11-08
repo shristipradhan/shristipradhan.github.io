@@ -8,7 +8,7 @@ project: true
 comments: false
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=ymn4yUSI9tc" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymn4yUSI9tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nepal is recognized as an agricultural economy, however, the country suffers from acute food shortage especially during the dry season. I initiated a team in my university in Nepal to collaborate with international universities to solve some commonly faced problems by rural communities in Nepal. These however were challenging engineering problems, requiring creative thinking. We initially started with 6 student members and grew to around 20 team members. Our international team comprised of three universities: Institute of Engineering, Pulchowk, Nepal; Tokyo Institute of Technology, Japan and University of Oslo, Norway.
 
