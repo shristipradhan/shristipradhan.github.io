@@ -30,15 +30,14 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  scholar:         shristi.pr@gmail.com
+#google:
   #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              shristi.pr@gmail.com
+#email:              username
 github-url:         shristi-pradhan
 linkedin:           shristipradhan
 
