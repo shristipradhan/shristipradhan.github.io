@@ -5,7 +5,8 @@ description:        "Shristi Pradhan website"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/ShristiPradhan.png'
-background:         'assets/img/Vancouver-North-View.jpg'
+background:         
+  color:            '#f8f8f8'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://shristipradhan.github.io
