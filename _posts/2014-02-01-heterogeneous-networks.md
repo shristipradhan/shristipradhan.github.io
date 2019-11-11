@@ -2,7 +2,7 @@
 layout: post
 title:  "Heterogenous Networks"
 date:   2014-02-01
-excerpt: "Heterogeneous Networks"
+excerpt: "Resource optimization in heterogeneous cellular networks"
 tag: false 
 comments: false
 ---
@@ -17,7 +17,7 @@ I proposed intrinsic trade-off optimization methods to obtain balance between im
 
 **Master's thesis**
 
-S. N. Pradhan, "Scheduling and power allocation for interference mitigation in heterogeneous cellular networks", MASc thesis, The University of British Columbia, Vancouver, Canada, Feb. 2014.
+[S. N. Pradhan, "Scheduling and power allocation for interference mitigation in heterogeneous cellular networks", MASc thesis, The University of British Columbia, Vancouver, Canada, Feb. 2014.](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0165858)
 
 **Peer Reviewed Publication**
 
@@ -29,3 +29,9 @@ S. N. Pradhan, "Scheduling and power allocation for interference mitigation in h
 * S. N. Pradhan, "Small cells to improve indoor wireless coverage", Three Minute Thesis (3MT) Competition, MASc., Department of Electrical & Computer Engineering, The University of British Columbia, Vancouver, Canada, Feb. 2013. (Awarded First Place) 
 * S. N. Pradhan, R. Devarajan, S. C. Jha, and V. K. Bhargava, "Uplink power allocation schemes for heterogeneous cellular networks," National Conference on Communications (NCC'13), Indian Institute of Technology, New Delhi, India, Feb. 2013.
 * S. N. Pradhan, R. Devarajan, S. C. Jha, and V. K. Bhargava, “Power control schemes for heterogeneous networks”, Canadian Utility Telecom Conference, Vancouver, Canada, Sep. 2012.
+
+<figure>
+	<img src="/assets/img/HetNet-Improve-Coverage.png">
+	<figcaption> Heterogeneous networks improve indoor wireless coverage </figcaption>
+</figure>
+

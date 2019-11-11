@@ -7,6 +7,10 @@ tag: false
 project: true
 comments: false
 ---
+<figure>
+	<img src="/assets/img/BlackBerry-Waterloo.png">
+	<figcaption> BlackBerry, Waterloo </figcaption>
+</figure>
 
 In Summer 2013, I spent a work term in BlackBerry Limited headquarters in Waterloo, Ontario, Canada. It was an awesome experience working as WLAN-LTE Test Development Engineer Intern with the Radio Frequency (RF) Connectivity and Radio Coexistence Platform team.
 
