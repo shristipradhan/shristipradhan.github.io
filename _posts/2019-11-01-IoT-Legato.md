@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IoT application development using Legato"
-date:   2013-08-01
+date:   2019-11-01
 excerpt: "Open source contribution to embedded platform to enable Internet of Things (IoT) application."
 tag: false 
 project: true
