@@ -4,13 +4,12 @@ title:  "How to install Git on macOS"
 date:   2024-01-04
 excerpt: "Install Git on macOS"
 tag: false 
-project: false
 comments: false
 ---
 
 Install Git using Homebrew:
 
-Here's easy steps to get git running on your macOS using [Homebrew] (https://brew.sh/), a popular package manager for macOS.
+Easy steps to get git running on your macOS using [Homebrew] (https://brew.sh/), a popular package manager for macOS.
 
 1. Open Terminal on your macOS.
 2. If you don't have Homebrew, install using:
@@ -26,7 +25,8 @@ Here's easy steps to get git running on your macOS using [Homebrew] (https://bre
 `git --version`
 
 Install Git using MacPorts:
-Here's another easy steps to get git running on your masOS using [MacPorts](https://www.macports.org/), which is an open source initiative. 
+
+Another easy steps to get git running on your masOS using [MacPorts](https://www.macports.org/), which is an open source initiative. 
 
 1. Open Terminal on your macOS.
 2. If you don't have MacPorts, first install command line tools using:
