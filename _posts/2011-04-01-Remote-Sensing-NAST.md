@@ -3,7 +3,8 @@ layout: post
 title:  "Establishment of Remote Sensing Data Centre in NAST"
 date:   2011-04-01
 excerpt: "Setting up data centre for remote sensing research."
-tag: false 
+tag: false
+project: true
 comments: false
 ---
 
