@@ -9,7 +9,7 @@ comments: false
 
 # Install Git using Homebrew:
 
-Easy steps to get git running on your macOS using [Homebrew] (https://brew.sh/), a popular package manager for macOS.
+Easy steps to get git running on your macOS using [Homebrew](https://brew.sh/), a popular package manager for macOS.
 
 1. Open Terminal on your macOS.
 2. If you don't have Homebrew, install using:  
