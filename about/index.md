@@ -5,15 +5,19 @@ tags: false
 date: false
 comments: false
 ---
-    
-Hello! Welcome to my home page!
 
-I'm passionate about technology and love to develop engineering solutions to solve real world problems. My interests are in Internet of Things (IoT) application, Aritificial Intelligence (AI), embedded systems, wireless communications. 
+Greetings! Welcome to my homepage!
 
-I'm a Software Engineer currently working at [Sierra Wireless](https://www.sierrawireless.com/), Vancouver, Canada. I'm working on open source embedded platform to enable IoT application development on Linux and Real Time Operating System (RTOS). My past experience include developing software for Internet Protocol Router at Ericsson Inc. and BlackBerry smartphones at BlackBerry Ltd.
+Tech professional with a passion for engineering innovative solutions that address real-world challenges, I thrive at the intersection of cutting-edge technologies. My expertise lies in crafting solutions for Internet of Things (IoT) applications, embedded systems, and wireless communications. My journey has been marked by a keen interest in Artificial Intelligence (AI) technology.
 
-I completed Master's of Applied Science degree from [Electrical and Computer Engineering department](https://www.ece.ubc.ca/) at the University of British Columbia, Vancouver, Canada. During my Master's research, I developed resource optimization methods for small cells or heterogeneous wireless networks. 
+Currently serving as a Senior Embedded Software Designer at Schneider Electric in the tech hub of Vancouver. In my previous role as Senior Software Engineer at Sierra Wireless, I contributed to an open-source embedded platform aimed at empowering IoT application development on both Linux and Real-Time Operating System (RTOS). Prior experiences include software development for Internet Protocol Routers at Ericsson Inc. and BlackBerry smartphones at BlackBerry Ltd.
 
-I studied Bachelor's of Engineering from [Department of Electronics and Computer Engineering](https://doece.pcampus.edu.np/) at Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal. While working as a researcher in Nepal, I contributed to the establishment of remote sensing data centre at the Faculty of Technology in Nepal Academy of Science and Technology.
+I earned my Master's of Applied Science degree from the [Electrical and Computer Engineering department]((https://www.ece.ubc.ca/)) at the University of British Columbia (UBC), focusing on resource optimization methods for small cells in heterogeneous wireless networks. 
 
-My hobbies are to travel, hike and play badminton. A latest addition to my hobby is to cook different culinary cuisines. To name a few cities that I've loved traveling to are London, Stuttgart, Tokyo, Kyoto, Hong Kong, San Francisco, Boston and ... (looking forward to travel more!) I've lived in Kathmandu, Vancouver and Waterloo. Some of my favourite spots to hike are Banff, Squamish, Garibaldi and Whistler in Canada.
+My academic journey began with a Bachelor's in Engineering from the [Department of Electronics and Computer Engineering](https://doece.pcampus.edu.np/) at Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal. 
+
+During my time in Nepal, I played a crucial role in establishing a remote sensing data center at the Faculty of Technology in Nepal Academy of Science and Technology.
+
+Beyond my professional endeavors, I find joy in traveling, hiking, and playing badminton. Some cities that have left a lasting impression on me include London, Stuttgart, Tokyo, Kyoto, Hong Kong, San Francisco, and Boston, with a growing list as I look forward to more adventures! My favorite hiking spots include Banff, Squamish, Garibaldi, and Whistler in Canada. 
+
+Explore further with me as I continue to embrace new experiences and challenges on this exciting journey!
