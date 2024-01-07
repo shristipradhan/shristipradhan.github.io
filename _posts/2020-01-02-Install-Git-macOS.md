@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to install Git on macOS"
-date:   2024-01-04
+date:   2020-01-02
 excerpt: "Install Git on macOS using Homebrew or MacPorts"
 tag: false 
 comments: false
