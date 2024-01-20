@@ -9,7 +9,7 @@ comments: false
 
 If you are working on IoT networks, you are bound to find Lightweight M2M (LwM2M) protocol useful. L2M2M is designed for remote management of devices which are light weight and constrained in power, computation and networking capabilities to realize the potential of IoT.
 
-LwM2M provides device management functions designed for sensor network's Machine to Machine (M2M) communication. It is built on top of Constrained Application Protocol (CoAP) and uses the architecture principle of Representational State Transfer (REST) for communication. It is developed by [Open Mobile Alliance (OMA)] (https://omaspecworks.org/what-is-oma-specworks/iot/lightweight-m2m-lwm2m/).
+LwM2M provides device management functions designed for sensor network's Machine to Machine (M2M) communication. It is built on top of Constrained Application Protocol (CoAP) and uses the architecture principle of Representational State Transfer (REST) for communication. It is developed by [Open Mobile Alliance (OMA)](https://omaspecworks.org/what-is-oma-specworks/iot/lightweight-m2m-lwm2m/).
 
 LwM2M provides core functionalities such as device configuration, firmware update, bootstrapping, connection management and data reporting.
 
@@ -39,14 +39,15 @@ Let's walk through a detailed example of how a device, using the LwM2M protocol,
 2. Object and resource definition:
 - The thermostat supports the device object ID 3303 with multiple instances, where each instance represents a specific thermostat unit. Refer [this page](https://techlibrary.hpe.com/docs/otlink-wo/OMA-LWM2M-Object-Resource-and-Value-Details.html) for default details of LwM2M object IDs.
 - Resources:
-5700 - current temperature, which is readable
-5701 - target temperature, which is readable and writable
+	- 5700: current temperature, which is readable
+	- 5701: target temperature, which is readable and writable
 
 3. Sending data to the server (updating target temperature):
 - Thermostat user adjusts the temperature setting to 22 degree celcius.
 - The smart thermostat sends a PUT request to the server with the new target temperature value.
 - The request might look like:
-```
+
+```json
 PUT /3303/0/5701
 Content-Type: application/json
 
@@ -59,11 +60,13 @@ Server acknowledges the update and the target temperature is now set to 22 degre
 - The thermostat periodically queries the server for the current temperature.
 - It sends a GET request to the server to read the current temperature value.
 - The request might look like this:
-```
+
+```json
 GET /3303/0/5700
 ```
 - The server responds with the current temperature:
-```
+
+```json
 {"current_temperature": 23}
 ```
 5. Observing changes (push notification):
