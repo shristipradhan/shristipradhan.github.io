@@ -47,7 +47,7 @@ Let's walk through a detailed example of how a device, using the LwM2M protocol,
 - The smart thermostat sends a PUT request to the server with the new target temperature value.
 - The request might look like:
 
-```json
+```
 PUT /3303/0/5701
 Content-Type: application/json
 
@@ -61,12 +61,12 @@ Server acknowledges the update and the target temperature is now set to 22 degre
 - It sends a GET request to the server to read the current temperature value.
 - The request might look like this:
 
-```json
+```
 GET /3303/0/5700
 ```
 - The server responds with the current temperature:
 
-```json
+```
 {"current_temperature": 23}
 ```
 5. Observing changes (push notification):
