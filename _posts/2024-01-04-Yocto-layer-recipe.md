@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Layering and Recipes in Yocto"
-date:   2023-03-05
+date:   2024-01-04
 excerpt: "The benefits of layering and recipes in a Yocto project"
 tag: false
 comments: false
@@ -11,7 +11,7 @@ Yocto project is widely used in the embedded systems industry to build customize
 
 # What are the benefits of layers and recipes?
 
-1. **Customization and Flexibility**
+**Customization and Flexibility**
 - Layering:  
 Yocto allows you to organize your project into custom layers. Each layer can contain recipes, configurations and other meta-data. Layers can be used to group related functionality together for specific applications, middleware or specific hardware. The layering mechanism allows you a modular structure, making it easy to include or exclude components without affecting the whole system. 
 
@@ -19,28 +19,28 @@ Yocto allows you to organize your project into custom layers. Each layer can con
 Recipes define how a software component should be built, configured and packaged. It provides the necessary information for the Yocto build system to download the source code, apply any patches, configure the build, compile the code, and package the resulting binaries.
 Custom recipes provide fine-grained control over the build process. It allows you to include or exclude specific features, configuration options and control dependencies.
 
-2. **Reusability**
+**Reusability**
 - Layering:  
 Layers can be used across projects. You can create a reusable layer if there is a set of common components or configurations that are used in multiple projects. This promotes code reuse, saving time and effort when starting new projects.
 
 - Recipes:  
 Once a recipe is created, it can be reused in other recipes. This is useful for common libraries, middleware or applications that can be used across multiple embedded systems.
 
-3. **Maintainability and Collaboration**
+**Maintainability and Collaboration**
 - Layering:  
 Different team members can work on different layers independently. This improves maintainability and allows for parallel development.
 
 - Recipes:  
 It makes it easier to maintain and update software components. If there's a new version of a library or application, you can update the recipe and it will be applied across all projects using it. 
 
-4. **Versioning and Upgradability**
+**Versioning and Upgradability**
 - Layering:  
 Layers can have their versioning, making it easier to manage changes and upgrades. When updating a layer, you can control which version of the layer to use, which allows for controlled updates.
 
 - Recipes:  
 Recipes can also have their versioning, allowing you to specify which version of a software component to include in your build. 
 
-5. **Community and Ecosystem**
+**Community and Ecosystem**
 - Layering:  
 There are many publicly available layers that you can leverage as Yocto has an active and vibrant community. These layers may include recipes, configurations, and optimizations for various hardware platforms and software components.
 
