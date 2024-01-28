@@ -7,6 +7,8 @@ tag: false
 comments: false
 ---
 
+Git is a distributed version control system that is widely used for tracking source code in software projects.
+
 # Install Git using Homebrew:
 
 Easy steps to get git running on your macOS using [Homebrew](https://brew.sh/), a popular package manager for macOS.
@@ -16,7 +18,7 @@ Easy steps to get git running on your macOS using [Homebrew](https://brew.sh/), 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 3. Once Homebrew is installed, you need to add /opt/homebrew/bin to your PATH. Run the following commands to add Homebrew to your PATH:  
 ```
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/shristipradhan/.zprofile
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/<user_name>/.zprofile
  eval "$(/opt/homebrew/bin/brew shellenv)"
  ```
 4. You can verify the version of Homebrew using:  
@@ -27,8 +29,7 @@ Easy steps to get git running on your macOS using [Homebrew](https://brew.sh/), 
 `git --version`
 
 # Install Git using MacPorts:
-
-Another easy steps to get git running on your masOS using [MacPorts](https://www.macports.org/), which is an open source initiative. 
+Another easy step to get git running on your macOS using [MacPorts](https://www.macports.org/)](https://www.macports.org/), which is an open-source initiative. 
 
 1. Open Terminal on your macOS.
 2. If you don't have MacPorts, first install command line tools using:  
