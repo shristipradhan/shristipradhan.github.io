@@ -34,37 +34,37 @@ Let's walk through a detailed example of how a device, using the LwM2M protocol,
 - The thermostat initiates communication by registering with the LwM2M server.
 - It sends a POST request to the L2M2M server for registration.
 - The server responds with a unique endpoint and other registration details.    
+
 2. Object and resource definition:
 - The thermostat supports the device object ID 3303 with multiple instances, where each instance represents a specific thermostat unit. Refer [page](https://techlibrary.hpe.com/docs/otlink-wo/OMA-LWM2M-Object-Resource-and-Value-Details.html) for default details of LwM2M object IDs.
 - Resources:    
 	- 5700: current temperature, which is readable
 	- 5701: target temperature, which is readable and writable    
+
 3. Sending data to the server (updating target temperature):
 - The thermostat user adjusts the temperature setting to 22 degrees Celcius.
 - The smart thermostat sends a PUT request to the server with the new target temperature value.
-- The request might look like:  
-```
-PUT /3303/0/5701
-Content-Type: application/json
+- The request might look like this: The server acknowledges the update and the target temperature is now set to 22 degrees Celcius.    
 
-{"target_temperature": 22}
-```
-Server acknowledges the update and the target temperature is now set to 22 degrees Celcius.    
 4. Receiving data from the server (reading current temperature):
 - The thermostat periodically queries the server for the current temperature.
 - It sends a GET request to the server to read the current temperature value.
 - The request might look like this:  
+
 ```
 GET /3303/0/5700
 ```
 - The server responds with the current temperature:  
+
 ```
 {"current_temperature": 23}
-```
+```    
+
 5. Observing changes (push notification):
 - The thermostat subscribes to observe the target temperature changes.
 - The server sends a push notification to the smart thermostat whenever the target temperature is updated (e.g. by another user or a scheduled event).
-- The notification informs the thermostat of the updated target temperature.    
+- The notification informs the thermostat of the updated target temperature.   
+
 6. Deregistration:
 - If the thermostat is no longer active or is being decommissioned, it can send a DEREGISTER request to the server.
 - The server then acknowledges the deregistration and the smart thermostat is removed from the list of active/known devices.    
