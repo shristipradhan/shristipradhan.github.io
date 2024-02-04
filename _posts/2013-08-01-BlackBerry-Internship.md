@@ -12,33 +12,27 @@ comments: false
 	<figcaption> BlackBerry, Waterloo </figcaption>
 </figure>
 
-In Summer 2013, I spent a work term in BlackBerry Limited headquarters in Waterloo, Ontario, Canada. It was an awesome experience working as WLAN-LTE Test Development Engineer Intern with the Radio Frequency (RF) Connectivity and Radio Coexistence Platform team.
+During the summer of 2013, I embarked on a transformative work term at BlackBerry headquarters in Waterloo, Ontario, Canada, where I contributed as a WLAN-LTE Test Development Engineer Intern within the esteemed Radio Frequency (RF) Connectivity and Radio Coexistence Platform team.
 
-The team comprise of creative engineers who provide leading edge reference designs of RF connectivity radios, such as WLAN, Bluetooth, GPS, FM, NFC, etc., and their coexistence wireless Wide Area Network (WAN) radios, such as LTE, W-CDMA, CDMA/EVDO, GSM/EDGE, etc., for BlackBerry handheld and tablet devices.
+The team, composed of innovative engineers, specializes in delivering cutting-edge reference designs for RF connectivity radios, encompassing WLAN, Bluetooth, GPS, FM, NFC, and coexistence wireless Wide Area Network (WAN) radios such as LTE, W-CDMA, CDMA/EVDO, GSM/EDGE, tailored for BlackBerry handheld and tablet devices.
 
-I worked in the following areas:
+## Key Responsibilities and Achievements
 
-1. WLAN and WLAN-LTE throughput testing:
+### WLAN and WLAN-LTE Throughput Testing:
 
-Developed a test automation software mainly in Python programming language.
+- Developed a robust test automation software predominantly using the Python programming language.
+- Conducted thorough tests and meticulously analyzed the performance of BlackBerry smartphones, specifically the Q10 and Z10, utilizing the software system I architected.
 
-Performed tests and analyzed the performance of BlackBerry smartphones (Q10, Z10) using the software system I built.
+### Bidirectional WLAN Automated Throughput Testing (Uplink and Downlink):
 
-2. Bidirectional WLAN automated throughput testing (uplink and downlink):
+- Worked extensively on the IEEE 802.11 a/b/g/n/ac standards, showcasing a deep understanding of wireless communication protocols.
+- Successfully automated both uplink and downlink WLAN throughput testing, implementing essential software modules in Python.
+- Enhanced the software user interface by incorporating features that allowed for the configuration of different uplink and downlink path loss values through Agilent attenuators.
 
-Worked on the standard IEEE 802.11 a/b/g/n/ac.
+### LTE-WLAN Coexistence Analysis:
 
-Successfully automated both uplink and downlink WLAN throughput testing. Software modules were developed in Python.
+- Conducted a comprehensive study on the coexistence behavior between LTE and WLAN for BlackBerry Q10 and Z10 devices.
+- Engaged in rigorous debugging to identify and resolve issues affecting the performance of the coexistence software.
+- Provided innovative solutions to mitigate interference problems between LTE and WiFi signals, resulting in significant improvements in the overall performance of BlackBerry Q10 and Z10 devices.
 
-Incorporated features on software user interface such as setting up different uplink and downlink path loss values of Agilent attenuators.
-
-3. LTE-WLAN coexistence analysis:
-
-Studied the coexistence behaviour between LTE and WLAN for BlackBerry Q10, Z10.
-
-Debugged issues in the performance of the coexistence software.
-
-Provided solutions to solve the interference problems between LTE and WiFi signals and to improve the performance of BlackBerry Q10, Z10.
-
-Overall, it was a great learning experience! :)
-
+This enriching experience not only honed my technical skills but also provided invaluable insights into the intricacies of RF connectivity and coexistence challenges. Overall, the internship at BlackBerry was a profound learning journey, marked by hands-on experience and collaborative problem-solving, culminating in a robust skill set and a lasting appreciation for the dynamic world of wireless technology. :-)
